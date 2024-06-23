@@ -1,0 +1,2 @@
+first commit
+echo ".env" >> .gitignore
