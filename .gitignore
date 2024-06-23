@@ -1,2 +1,3 @@
 first commit
-echo ".env" >> .gitignore
+.env
+public/storage/
